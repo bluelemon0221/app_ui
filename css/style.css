@@ -1,0 +1,14 @@
+.header-menu {
+    background-color: #ababab;
+    color: #fff;
+    width: 100%;
+    background-size: cover;
+
+}
+.menu-list {
+    display: flex;
+    list-style: none;
+}
+.menu-item {
+    padding-left: 20px;
+}
