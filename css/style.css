@@ -20,3 +20,8 @@
     background-color: #333333;
     max-height: 100%;
 }
+.icon {
+    font-size: 2rem;
+    color: #c0c0c0;
+    text-align: center;
+}
